@@ -1,0 +1,2 @@
+# mynpm
+mynpm -global
